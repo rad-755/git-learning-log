@@ -6,6 +6,7 @@
 - I prefer rebasing feature branches for a clean linear history
 - I resolve conflicts by combining the best of both changes
 - I use interactive rebase to polish commits before opening a PR
+- Git stash is a lifesaver for context switching
 ## Tools I Use
 
 - Cursor for editing
@@ -18,3 +19,6 @@
 - Rebase rewrites history, so only use it on local branches
 - Interactive rebase is powerful for cleaning up work before sharing
 - Git stash is a lifesaver for context switching
+
+
+# Conflict Practice Notes
