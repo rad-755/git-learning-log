@@ -6,6 +6,7 @@
 - I prefer rebasing feature branches for a clean linear history
 - I resolve conflicts by combining the best of both changes
 - I use interactive rebase to polish commits before opening a PR
+- Git stash is a lifesaver for context switching
 ## Tools I Use
 
 - Cursor for editing
