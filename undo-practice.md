@@ -38,7 +38,7 @@ This file documents the Git undo and recovery tools I've learned.
 - git bisect bad: mark current commit as containing the bug
 - git bisect good <ref>: mark a known-good commit
 - Git checks out middle commits; you test and mark good/bad
-- git bisect reset: end the session and return to original HEAD
+- git bisect reset:: end the session and return to original HEAD
 
 ## Tags
 
